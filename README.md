@@ -1,113 +1,70 @@
-# One-Click Redstone Machine Mod（一键生成红石机器模组）
-
-
+# One Click Redstone Machine Mod
 **Minecraft Mod for Fabric/Forge**  
-版本: v1.0.0 | 支持版本: Minecraft 1.21.1
-**语言**: 中文/English
+edition: V1.0.0 | Supported versions: Minecraft 1.21.1
+**Language : Chinese/English**
  
 ---
-
-## 📝 简介
-
-**一键生成红石机器模组** 是一款为《Minecraft》设计的便捷工具模组，旨在通过简单的指令或界面操作，快速生成各种复杂红石机器，帮助玩家节省时间，专注于创造和探索。
-
-### 🎯 主要功能
-
-- **一键生成机器**：  
-  输入点击按钮，即可生成预设的红石机器（如自动农场、矿车轨道、电梯等）。
-
-- **兼容性扩展**：  
-  （可能吧）与主流模组（如Create、IndustrialCraft 2）兼容，扩展自动化可能性。
-
+##  📝  brief introduction
+**One click redstone machine mod** is a convenient tool mod designed for Minecraft, aimed at quickly generating various complex redstone machines through simple commands or interface operations, helping players save time and focus on creation and exploration.
+###  🎯  major function
+-One click machine generation:
+Input and click the button to generate preset redstone machines (such as automatic farms, mine car tracks, elevators, etc.).
+-**Compatibility Extension**  :
+(Maybe) Compatible with mainstream modules such as Create and IndustrialCraft 2, expanding automation possibilities.
 ---
-
-## 📦 安装指南
-
-1. **前置要求**：
-    - Minecraft 版本: 1.20.1
-    - Mod Loader: Fabric 
-
-2. **下载模组**： 
-- 从Release页面下载最新 `.jar` 文件。
-
-3. **安装模组**：
-    - 将 `.jar` 文件放入 `mods` 文件夹。
-    - 启动游戏，检查是否加载成功。
-
+##  📦  installation guide
+1. **Preliminary Requirements**:
+   - Minecraft version: 1.20.1
+   - Mod Loader:  Fabric
+2. **ownload Module**:
+       -Download the latest `. jar ` file from the Release page.
+3. **Install module**:
+       -Put the '. jar' file into the 'mods' folder.
+       -Start the game and check if it loads successfully.
 ---
-
-## 🛠️ 使用说明
-
-### 基础操作
-
-1. **生成机器**：
-    - 快速点击生成。
-
-2. **调整参数**：  
-   使用界面中的滑块或输入框调整机器大小、速度等参数。
-
-3. **保存模板**：  
-   点击“保存为模板”按钮，将当前设计保存为自定义模板。
-
-4. **加载模板**：  
-   从模板列表中选择已保存的设计，快速生成相同机器。
-
-### 进阶功能(未实现)
-
-- **脚本扩展**：  
-  支持通过 Lua 或其他脚本语言自定义机器行为。
-
-- **多人共享**：  
-  导出模板文件，与其他玩家分享你的设计。
-
+##  🛠️  instructions
+###Basic Operations
+1. **Generate Machine**:
+       -Quickly click to generate.
+2. **Adjust parameters**:
+       Use the sliders or input boxes in the interface to adjust parameters such as machine size and speed.
+3. **Save Template**:
+       Click the 'Save as Template' button to save the current design as a custom template.
+4. **Loading Template**:
+       Select a saved design from the template list and quickly generate the same machine.
+### Advanced features (not implemented)
+       -Script extension:
+       Support customizing machine behavior through Lua or other scripting languages.
+       -** Shared by multiple people**:
+       Export template files and share your designs with other players.
 ---
-
-## 📜 更新日志
-
+##  📜  Update log
 ### v1.0.0
-
-- 初始发布，支持以下机器：
-    - 一些基础的刷物资机器
-
-### v1.1.0（未来计划）
-
-- 新增机器类型：
-    - 自动熔炉
-    - 红石时钟
-- 优化红石线路生成算法
-- 增加多语言支持
-
+-Initial release, supports the following machines:
+-Some basic material brushing machines
+### V1.1.0 (future plan)
+-New machine type:
+-Automatic melting furnace
+-Redstone Clock
+-Optimize the algorithm for generating redstone lines
+-Add multilingual support
 ---
-
-## 🤝 贡献指南
-
-- **问题反馈**：  
-  提交 [Issue](https://github.com/yourusername/one-click-redstone-mod/issues) 报告 bug 或建议。
-
-- **代码贡献**：  
-  Fork 项目，提交 Pull Request，添加新功能或修复问题。
-
-- **文档改进**：  
-  帮助完善本 README 或 Wiki 文档。
-
+##  🤝  Contribution Guide
+-**Problem feedback**:
+Submit [Issue]（ https://github.com/yourusername/one-click-redstone-mod/issues ）Report bugs or suggestions.
+-**Code Contribution**:
+Fork project, submit Pull Request, add new features or fix issues.
+-**Document Improvement**:
+Help improve this README or Wiki document.
 ---
-
-## 📄 许可证
-
-本项目采用 [MIT License](https://opensource.org/licenses/MIT)。  
-您可以在遵守许可证的前提下自由使用、修改和分发本模组。
+##  📄  permit
+This project adopts [MIT License]（ https://opensource.org/licenses/MIT ）.
+You are free to use, modify, and distribute this module while complying with the license.
  
 ---
-
-## 🔗 联系方式
-
-- 邮箱2065157374@qq.com
-
-- bilibili像hooxi一样s1mple啊(https://space.bilibili.com/525470784?spm_id_from=333.1007.0.0)
+##  🔗  contact information
+-Email address 2065157374@qq.com
+-像hooxi一样s1mple啊
 ---
-
-感谢您使用 **一键生成红石机器模组**！  
-祝您在《Minecraft》中创造无限可能！ 🎮✨
-
-by 像hooxi一样s1mple啊(https://space.bilibili.com/525470784?spm_id_from=333.1007.0.0)
-
+Thank you for using ** one click to generate Redstone machine module**!
+Wishing you endless possibilities in Minecraft! 🎮✨
