@@ -23,7 +23,7 @@ Input and click the button to generate preset redstone machines (such as automat
        -Start the game and check if it loads successfully.
 ---
 ##  🛠️  instructions
-###Basic Operations
+### Basic Operations
 1. **Generate Machine**:
        -Quickly click to generate.
 2. **Adjust parameters**:
@@ -51,7 +51,7 @@ Input and click the button to generate preset redstone machines (such as automat
 ---
 ##  🤝  Contribution Guide
 -**Problem feedback**:
-Submit [Issue]（ https://github.com/yourusername/one-click-redstone-mod/issues ）Report bugs or suggestions.
+Submit [Issue](https://github.com/startNONE/preredstone-template-1.21.1/Issue)Report bugs or suggestions.
 -**Code Contribution**:
 Fork project, submit Pull Request, add new features or fix issues.
 -**Document Improvement**:
@@ -66,5 +66,5 @@ You are free to use, modify, and distribute this module while complying with the
 -Email address 2065157374@qq.com
 -像hooxi一样s1mple啊
 ---
-Thank you for using ** one click to generate Redstone machine module**!
+Thank you for using **one click to generate Redstone machine module**!
 Wishing you endless possibilities in Minecraft! 🎮✨
