@@ -1,3 +1,4 @@
 {
-  "item.preredstone.pre_redstone": "pre_redstone"
+  "item.preredstone.pre_redstone": "pre_redstone",
+  "itemGroup.preredstone_group": "preredstone_group"
 }

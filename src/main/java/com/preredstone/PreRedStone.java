@@ -1,5 +1,6 @@
 package com.preredstone;
 
+import com.preredstone.item.ModItemGroups;
 import com.preredstone.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -20,6 +21,7 @@ public class PreRedStone implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 		ModItems.registerModItems();
+		ModItemGroups.registerModItemGroups();
 		LOGGER.info("Hello Fabric world!");
 	}
 }
